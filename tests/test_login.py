@@ -2,5 +2,5 @@ def test_login():
     username = "admin"
     password = "1234"
 
-    assert username =="admin"
+    assert username =="manager"
     assert password =="1234"
